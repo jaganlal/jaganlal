@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Violin
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my firstname @ gmail dot com
+- 📫 How to reach me my `firstname @ gmail dot com`
 
 <!---
 jaganlal/jaganlal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
